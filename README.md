@@ -2,9 +2,33 @@
 
 ![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/69b121c5-9994-4542-95d0-4b2528173541)
 
-![Uploading image.png…]()
+#trending day movie
 
-![Uploading image.png…]()
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/197931a4-e612-4210-a190-21aff2b74d5d)
+
+#trending week movie
+
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/d4ebe1fa-8798-4418-a98a-a0507e9f8f2b)
+
+#popular movie
+
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/6b038ff9-5ce5-42e3-ae4c-139ff14d3428)
+
+
+#popular tv show
+
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/7e66223b-79ec-425b-b6a0-53ab2843e5b4)
+
+#top movie
+
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/f50babed-8b9a-4ca3-975e-56df495d645a)
+
+
+#movie description
+
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/ad7a59a9-da51-4462-b947-6825acc6be42)
+![image](https://github.com/SumitKumargiri/movie_websit/assets/96234273/c7892bbf-08ba-4908-898e-79085028e1a3)
+
 
 
 This project was bootstrapped with Create React App.
@@ -35,11 +59,11 @@ See the section about deployment for more information.
 npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
 
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single-build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 Learn More
 You can learn more in the Create React App documentation.
